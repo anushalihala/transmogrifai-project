@@ -76,7 +76,7 @@ object SimpleProject {
     val capitalgain = FeatureBuilder.Real[Individual].extract(_.capitalgain.toReal).asPredictor
     val capitalloss = FeatureBuilder.Real[Individual].extract(_.capitalloss.toReal).asPredictor
     val hoursperweek = FeatureBuilder.Real[Individual].extract(_.hoursperweek.toReal).asPredictor
-    val nativecountry = FeatureBuilder.PickList[Individual].extract(_.nativecountry.map(_.toString).toPickList).asPredictor
+    val nativecountry = FeatureBuilder.Country[Individual].extract(_.nativecountry.map(_.toString).toCountry).asPredictor
 
     ////////////////////////////////////////////////////////////////////////////////
     // TRANSFORMED FEATURES
