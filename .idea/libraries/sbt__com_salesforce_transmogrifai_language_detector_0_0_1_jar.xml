@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.salesforce.transmogrifai:language-detector:0.0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.salesforce.transmogrifai/language-detector/jars/language-detector-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.salesforce.transmogrifai/language-detector/srcs/language-detector-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

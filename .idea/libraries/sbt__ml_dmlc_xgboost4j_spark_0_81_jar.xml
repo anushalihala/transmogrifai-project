@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: ml.dmlc:xgboost4j-spark:0.81:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/ml.dmlc/xgboost4j-spark/jars/xgboost4j-spark-0.81.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/ml.dmlc/xgboost4j-spark/srcs/xgboost4j-spark-0.81-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

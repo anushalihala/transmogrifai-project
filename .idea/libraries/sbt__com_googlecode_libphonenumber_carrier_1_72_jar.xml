@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.googlecode.libphonenumber:carrier:1.72:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.libphonenumber/carrier/jars/carrier-1.72.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.googlecode.libphonenumber/carrier/srcs/carrier-1.72-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
